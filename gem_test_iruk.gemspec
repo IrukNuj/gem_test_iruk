@@ -6,12 +6,12 @@ require "gem_test_iruk/version"
 Gem::Specification.new do |spec|
   spec.name          = "gem_test_iruk"
   spec.version       = GemTestIruk::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Junpei Kuriyama"]
   spec.email         = ["b1716568@planet.kanazawa-it.ac.jp"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{test gem}
+  spec.description   = %q{test gem to practice make gem by Iruk}
+  spec.homepage      = "https://github.com/IrukNuj/gem_test_iruk.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
